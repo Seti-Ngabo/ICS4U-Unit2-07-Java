@@ -1,5 +1,5 @@
 /*
-* Vehicle (2)
+* Vehicle 
 *
 * @author  Seti Ngabo
 * @version 1.0
